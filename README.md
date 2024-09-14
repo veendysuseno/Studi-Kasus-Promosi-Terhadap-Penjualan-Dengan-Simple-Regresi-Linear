@@ -1,4 +1,4 @@
-# Studi Kasus Pengaruh atau Mempredikisi Hubungan Biaya Promo terhadap Peningkatan Penjualan dengan Algoritma Simple Regresi Linear
+# Studi Kasus Pengaruh atau Predikisi Hubungan Biaya Promo terhadap Peningkatan Penjualan dengan Algoritma Simple Regresi Linear
 
 ## Deskripsi:
 
